@@ -20,4 +20,4 @@ http://localhost:8080/cep/04538133
 ## Referências
 
 1. [ViaCEP API](https://viacep.com.br/)
-2. [Spring Boot - Spring Cloud OpenFeign](https://youtu.be/MA0HQnmPriI)
+2. [Spring Boot - Spring Cloud OpenFeign - Rodrigo Freitas](https://youtu.be/MA0HQnmPriI)
